@@ -1,0 +1,6 @@
+# 'name' should generally be the same as the code repo name.
+name: msw.java.pos
+packages:
+- path: miPrincipal
+- path: domain
+- path: workflow
