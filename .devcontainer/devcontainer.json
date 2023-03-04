@@ -4,7 +4,8 @@
 			"extensions": [
 				"GitHub.copilot",
 				"vscjava.vscode-java-pack",
-				"appland.appmap"
+				"appland.appmap",
+				"MS-vsliveshare.vsliveshare"
 			]
 		}
 	}
